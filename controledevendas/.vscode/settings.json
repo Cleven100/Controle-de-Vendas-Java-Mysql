@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Cleven-PC\\Desktop\\mysql-connector-j-8.0.31\\mysql-connector-j-8.0.31.jar",
+        "c:\\Users\\Cleven-PC\\Desktop\\conexõe\\mysql-connector-java-5.1.47\\mysql-connector-java-5.1.47.jar",
+        "c:\\Users\\Cleven-PC\\Desktop\\conexõe\\mysql-connector-java-5.1.47\\mysql-connector-java-5.1.47-bin.jar",
+        "c:\\Users\\Cleven-PC\\Desktop\\conexõe\\mysql-connector-j-8.0.31\\mysql-connector-j-8.0.31.jar"
+    ]
+}
